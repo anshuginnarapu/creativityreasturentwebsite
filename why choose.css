@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.wcu-section{
+    background-color: #f9fbf9fe;
+}
+.wcu-section-heading{
+    font-family: "Roboto";
+    font-family: 700;
+    font-size: 28px;
+    color: #183b56;
+    font-weight: bold;
+}
+.wcu-section-description{
+    font-size: 19px;
+    color: #5a7184;
+    font-family: "Roboto";
+}
+.wcu-card-image{
+    height: 90px;
+    width: 89px;
+}
+.wcu-card{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #5ea1f4;
+    border-radius: 16px;
+}
+.wcu-card-image{
+    height: 100px;
+    width: 100px;
+}
+.wcu-card-title{
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 22px;
+    color: green;
+}
+.wcu-card-description{
+    font-family: "Roboto";
+    font-size: 19px;
+    color: #7b8794;
+}
+.offers{
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
